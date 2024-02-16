@@ -19,6 +19,7 @@ BusyIndicator BusyIndicator = new BusyIndicator();
      BusyIndicator.Hide();
  }
  ```
- 
 
+  ![SfDataGrid_DataPager_AsyncLoad.gif](https://support.syncfusion.com/kb/agent/attachment/article/15013/inline?token=eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE4NTM3Iiwib3JnaWQiOiIzIiwiaXNzIjoic3VwcG9ydC5zeW5jZnVzaW9uLmNvbSJ9.uD9Rc-i6EH9kFgmtCFBxCv0Ixz5vBOUfIPksxFkD_MA)
+ 
 Take a moment to peruse the [WinForms DataGrid - Paging documentation](https://help.syncfusion.com/windowsforms/datagrid/paging), where you can find about the basic details about paging the DataGrid.

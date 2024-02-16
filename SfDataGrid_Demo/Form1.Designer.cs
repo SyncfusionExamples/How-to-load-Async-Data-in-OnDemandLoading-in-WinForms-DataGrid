@@ -36,9 +36,10 @@
             // sfDataGrid1
             // 
             sfDataGrid1.AccessibleName = "Table";
+            sfDataGrid1.AutoSizeColumnsMode = Syncfusion.WinForms.DataGrid.Enums.AutoSizeColumnsMode.Fill;
             sfDataGrid1.Location = new Point(49, 13);
             sfDataGrid1.Name = "sfDataGrid1";
-            sfDataGrid1.Size = new Size(665, 342);
+            sfDataGrid1.Size = new Size(665, 319);
             sfDataGrid1.Style.BorderColor = Color.FromArgb(100, 100, 100);
             sfDataGrid1.Style.CheckBoxStyle.CheckedBackColor = Color.FromArgb(0, 120, 215);
             sfDataGrid1.Style.CheckBoxStyle.CheckedBorderColor = Color.FromArgb(0, 120, 215);

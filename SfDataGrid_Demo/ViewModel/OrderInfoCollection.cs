@@ -4,9 +4,7 @@ using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using WinFormsApp2.Model;
-
-namespace WinFormsApp2.ViewModel
+namespace WinFormsApp2
 {
     public class OrderInfoCollection
     {

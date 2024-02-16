@@ -3,8 +3,6 @@ using Syncfusion.WinForms.Core.Utils;
 using Syncfusion.WinForms.DataGrid;
 using System.Collections.ObjectModel;
 using System.Runtime.CompilerServices;
-using WinFormsApp2.Model;
-using WinFormsApp2.ViewModel;
 
 namespace WinFormsApp2
 {
